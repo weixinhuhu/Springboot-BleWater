@@ -1,7 +1,5 @@
 package com.example.utils;
 
-import org.springframework.http.HttpStatus;
-
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
